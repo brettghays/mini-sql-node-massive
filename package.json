@@ -18,10 +18,11 @@
   },
   "homepage": "https://github.com/DevMountain/mini-sql-node-massive#readme",
   "dependencies": {
-    "body-parser": "^1.17.2",
-    "cors": "^2.8.3",
-    "express": "^4.14.0",
-    "massive": "~3.2.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "massive": "^3.2.2",
     "pg-promise": "~3.4.0"
   }
 }
